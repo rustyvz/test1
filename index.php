@@ -4,6 +4,6 @@
 
 phpinfo();
 
-
+echo "Nice!";
 
 ?>
